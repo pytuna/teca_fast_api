@@ -5,3 +5,8 @@
     <em>FastAPI framework, high performance, easy to learn, fast to code, ready for production</em>
 </p>
 # teca_fast_api
+---
+
+****: <a href="https://fastapi.tiangolo.com" target="_blank">https://fastapi.tiangolo.com</a>
+
+---
