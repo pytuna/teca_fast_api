@@ -11,9 +11,9 @@
  ## Cai dat cac goi python
  
  <div class="termy">
-
+# fast api
 ```console
-$ pip install fastapi
+$ pip3 install fastapi
 
 ---> 100%
 ```
@@ -23,7 +23,7 @@ $ pip install fastapi
 <div class="termy">
 
 ```console
-$ pip install "uvicorn[standard]"
+$ pip3 install "uvicorn[standard]"
 
 ---> 100%
 ```
