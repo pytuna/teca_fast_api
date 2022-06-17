@@ -9,9 +9,9 @@
 ---
  
  ## Cai dat cac goi python
- 
+ Fast-api
  <div class="termy">
-# fast api
+  
 ```console
 $ pip3 install fastapi
 
