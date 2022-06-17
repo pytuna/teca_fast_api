@@ -1,0 +1,1 @@
+pip3 install fastapi && pip3 install uvicorn && pip3 install fastapi-login && pip3 install alembic && pip3 install jwt && pip3 install pymysql && pip3 install PyJWT && pip3 install python-multipart &&  pip3 install python-dotenv
