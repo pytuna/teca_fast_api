@@ -10,7 +10,7 @@
  
  ## Cai dat cac goi python
  
- fast api
+ - fast api
  
  <div class="termy">
   
@@ -22,7 +22,7 @@ $ pip3 install fastapi
 
 </div>
 
-Server uvicorn
+- Server uvicorn
 
 <div class="termy">
 
